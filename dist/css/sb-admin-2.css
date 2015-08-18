@@ -256,6 +256,14 @@ table.dataTable thead .sorting:after {
     color: rgba(50,50,50,.5);
 }
 
+table.dataTable tbody tr.selected {
+	background-color: #B0BED9;
+}
+
+table.dataTable tbody tr {
+	background-color: #ffffff;
+}
+
 .btn-circle {
     width: 30px;
     height: 30px;
